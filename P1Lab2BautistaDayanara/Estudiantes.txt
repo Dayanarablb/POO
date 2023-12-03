@@ -1,0 +1,73 @@
+================ REGISTRO DE ESTUDIANTES ===============
+ID: 23500
+Nombres: Dayanara Lisseth
+Apellidos: Bautista Bravo
+CI: 2350083054
+Telefono: 981132625
+Direccion: Av.Rio Toachi
+Carrera: ITIN
+Nivel: 2 Semestre================ REGISTRO DE ESTUDIANTES ===============
+ID: 11111
+Nombres: Pepe Juan
+Apellidos: Qui�onez Perez
+CI: 2350095621
+Telefono: 985563521
+Direccion: Av. Quevedo
+Carrera: Biotecnologia
+Nivel: 3 Semestre================ REGISTRO DE ESTUDIANTES ===============
+ID: 12345
+Nombres: Maria Soledad
+Apellidos: Catagua Bin
+CI: 2310045698
+Telefono: 981165948
+Direccion: Av. Esmeraldas
+Carrera: Agropecuaria
+Nivel: 2 Semestre================ REGISTRO DE ESTUDIANTES ===============
+ID: 12346
+Nombres: Viviana Cela
+Apellidos: Pluas Ac
+CI: 1236548956
+Telefono: 981154678
+Direccion: Av.Quito
+Carrera: Itin
+Nivel: 1 Semestre================ REGISTRO DE ESTUDIANTES ===============
+ID: 22222
+Nombres: Dayana Maria
+Apellidos: Velez Paucar
+CI: 2350049615
+Telefono: 956632147
+Direccion: Av. Rio Toachi
+Carrera: Itin
+Nivel: 5 Semestre================ REGISTRO DE ESTUDIANTES ===============
+ID: 33333
+Nombres: Felipe Diego
+Apellidos: Vinueza Vello
+CI: 2360014789
+Telefono: 954481625
+Direccion: Santha Marta
+Carrera: Agropecuaria
+Nivel: 3 Semestre================ REGISTRO DE ESTUDIANTES ===============
+ID: 55555
+Nombres: Kimberly Ana
+Apellidos: Cede�o Armas
+CI: 1254478635
+Telefono: 954462315
+Direccion: Girasoles
+Carrera: ITIN
+Nivel: 1 Semestre================ REGISTRO DE ESTUDIANTES ===============
+ID: 77777
+Nombres: df
+Apellidos: df
+CI: 2351148963
+Telefono: 954421315
+Direccion: sd
+Carrera: sd
+Nivel: sd================ REGISTRO DE ESTUDIANTES ===============
+ID: 60000
+Nombres: Julia Elena
+Apellidos: Bravo Moreira
+CI: 2145698745
+Telefono: 984615702
+Direccion: Coop. San Ignacio
+Carrera: Agropecuaria
+Nivel: 6 Semestre
